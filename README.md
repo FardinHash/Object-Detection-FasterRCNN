@@ -1,2 +1,2 @@
 # Object-Detection-FasterRCNN
-- Mostly Collected from another repository
+- Mostly Collected from another source
